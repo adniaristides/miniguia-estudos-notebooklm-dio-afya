@@ -30,22 +30,39 @@ Resumo sobre FIIs:
 Glossário:
 
   FII - Veículo de investimento coletivo focado no setor imobiliário.
+  
   Fundo de Tijolo - Tipo de FII que investe diretamente em imóveis físicos (shoppings, escritórios, galpões logísticos etc.). A principal fonte de renda vem dos aluguéis pagos pelos inquilinos.
+  
   Fundo de Papel - FII que investe em ativos financeiros do setor imobiliário, como CRIs (Certificados de Recebíveis Imobiliários). Sua receita vem principalmente de juros e correções desses títulos.
+  
   Fundo Hibrido (Misto) - FII que combina estratégias: investe tanto em imóveis físicos (tijolo) quanto em ativos financeiros (papel), buscando equilibrar renda e risco.
+  
   Vacância (Desocupação) - Percentual de imóveis de um fundo que estão sem inquilinos. Quanto maior a vacância, menor tende a ser a geração de renda com aluguéis.
+  
   Liquidez e Fracionamento - Liquidez é a facilidade de negociação das cotas na bolsa; fracionamento é a divisão do investimento em cotas acessíveis ao investidor.
+  
   Diversificação - Estratégia de distribuir investimentos entre diferentes ativos ou fundos para reduzir riscos. Em FIIs, pode envolver diferentes setores, regiões e tipos de ativos.
+  
   Dividend Yield (DY) - Indicador que mostra o retorno em renda (dividendos) em relação ao preço da cota.
+  
   Preço sobre Valor Patrimonial (P/VP) - Relação entre o preço de mercado da cota e o valor patrimonial por cota.
+  
   Taxa de perfomance - Taxa cobrada pelo gestor quando o fundo supera um determinado benchmark (meta de desempenho). Alinha os interesses do gestor com os do investidor.
+  
   Taxa de administração - Remuneração cobrada pela gestão e administração do fundo. É expressa como percentual anual sobre o patrimônio.
-  Corretagem e custódia - Taxas referentes a compra, venda e guarda dos ativos pela corretora. 
+  
+  Corretagem e custódia - Taxas referentes a compra, venda e guarda dos ativos pela corretora.
+  
 
 Prompts sobre o tema.
 
-. Resumidamente, o que são fundos imobiliários? 
+. Resumidamente, o que são fundos imobiliários?
+
 . Me explique exemplos de FIIs.
+
 . Aprofunde sobre as vantagens de se investir em FIIs.
+
 . Aprofunde sobre as desvantagens de se investir em FIIs.
+
 . Quais os cuidados que devo tomar ao declarar FIIs no imposto de renda?
+
