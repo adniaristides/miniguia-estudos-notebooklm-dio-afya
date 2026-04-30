@@ -15,6 +15,8 @@ Fontes:
 
 Miniguia de Estudo Investimentos Imobiliários (FIIs):
 
+https://notebooklm.google.com/notebook/2029bbca-ba2a-47b0-b32c-d48e8475d80d
+
 Resumo sobre FIIs:
 
   Os Fundos de Investimento Imobiliário (FIIs) funcionam como uma espécie de "condomínio" de investidores, que reúnem seus recursos para aplicar em conjunto no mercado imobiliário
