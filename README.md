@@ -5,7 +5,9 @@ Contexto e Objetivos: Este miniguia tem por objetivo ajudar a entender o que sã
 
 Fontes: 
  . https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimento-imobiliario-fii.htm
+ 
  . https://www.infomoney.com.br/guias/fundos-imobiliarios/
+ 
  . https://riconnect.rico.com.vc/wp-content/uploads/sites/4/2026/04/Rico-Manual-do-Imposto-de-Renda-2026.pdf
 
 
