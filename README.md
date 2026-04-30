@@ -4,6 +4,7 @@ Projeto prático do bootcamp DIO Afya, para criação de  Caderno Temático no N
 Contexto e Objetivos: Este miniguia tem por objetivo ajudar a entender o que são FIIs (Fundos de investimentos imobiliários), quais suas particularidades, e como declarar corretamente esse investimento no imposto de renda.
 
 Fontes: 
+
  . https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimento-imobiliario-fii.htm
  
  . https://www.infomoney.com.br/guias/fundos-imobiliarios/
