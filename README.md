@@ -2,11 +2,12 @@
 Projeto prático do bootcamp DIO Afya, para criação de  Caderno Temático no NotebookLM
 
 Contexto e Objetivos: Este miniguia tem por objetivo ajudar a entender o que são FIIs (Fundos de investimentos imobiliários), quais suas particularidades, e como declarar corretamente esse investimento no imposto de renda.
-Curadoria de Fontes: 
-https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimento-imobiliario-fii.htm
-https://www.infomoney.com.br/guias/fundos-imobiliarios/
-https://riconnect.rico.com.vc/wp-content/uploads/sites/4/2026/04/Rico-Manual-do-Imposto-de-Renda-2026.pdf
-Engenharia de Prompts e "Cicatrizes": Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). O mercado valoriza profissionais que mostram o raciocínio por trás dos resultados!
+
+Fontes: 
+ . https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimento-imobiliario-fii.htm
+ . https://www.infomoney.com.br/guias/fundos-imobiliarios/
+ . https://riconnect.rico.com.vc/wp-content/uploads/sites/4/2026/04/Rico-Manual-do-Imposto-de-Renda-2026.pdf
+
 
 
 Miniguia de Estudo Investimentos Imobiliários (FIIs):
